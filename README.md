@@ -8,7 +8,7 @@
 
 ## Training
 
-use
+You may simply use ```./training_script1.sh to launch training. Be sure to modify the script to use your desired autoregressive language model and desired output directory
 
 ## Running test suites on trained models
 
