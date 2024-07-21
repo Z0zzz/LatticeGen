@@ -1,4 +1,6 @@
-# LatticeGenV2
+# LatticeGen
+
+Accompanying code for [paper](https://arxiv.org/abs/2309.17157) published in NAACL 2024 Findings
 
 ## TODOs
 - [ ] comprehensive instruction on how to run test suites
